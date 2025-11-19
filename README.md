@@ -75,7 +75,7 @@
 <!-- Twilio -->
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
 
-<!-- WhatsApp Automation -->
+<!-- WhatsAppAPI -->
 <img src="https://img.shields.io/badge/WhatsApp_Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <!-- PythonAnywhere -->
