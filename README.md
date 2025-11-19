@@ -89,13 +89,9 @@
 
 </p>
 
-### ☕ Support
+## ☕ Support
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sudharani" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-         alt="Buy Me A Coffee"
-         width="250">
-  </a>
-</p>
+<a href="https://buymeacoffee.com/sudharani?new=1" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+</a>
 
