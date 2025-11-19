@@ -19,17 +19,13 @@
 - MySQL Workbench
 - Frontend (HTML, CSS, JS)
 
-📫 Reach out me at - sudharanibiradar970@gmail.com 
-
----
+📫 Reach out to me at - sudharanibiradar970@gmail.com 
 
 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Biradar2288Sudharani&show_icons=true&theme=tokyonight)
 
 💻 Languages and Tools  
-Django | Python | Numpy | Pandas | AI & ML | Tkiter | JavaScript | MySQL | HTML | CSS | Bootstrap | Render | Netlify | Git | GitHub | Twilio | AWS | WhatsApp Automation  | Python Anywhere | Vercel | PHP | 
-
----
+Django | Python | Numpy | Pandas | AI & ML | Tkiter | JavaScript | MySQL | HTML | CSS | Bootstrap | Render | Netlify | Git | GitHub | Twilio | AWS | WhatsApp Automation  | Python Anywhere | Vercel | PHP
 
 ❤️ Support  
 If you like my work, consider giving a ⭐ to my repositories!
