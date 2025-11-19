@@ -1,5 +1,5 @@
-Hi 👋, I'm Sudharani Biradar  
-A passionate full-stack & Backend developer from India 🇮🇳  
+                            Hi 👋, I'm Sudharani Biradar  
+                            A passionate full-stack & Backend developer from India 🇮🇳  
 
 🔗 Check My Portfolio - https://introdme.netlify.app/
 📑 Check out my resume here - My Resume
