@@ -2,9 +2,8 @@
                             
                     A passionate full-stack & Backend developer from India 🇮🇳  
 
-🔗 Check My Portfolio - https://introdme.netlify.app/
+🔗 Check My Portfolio - https://introdme.netlify.app/  
 📑 Check out my resume here – [My Resume](https://github.com/Biradar2288Sudharani/Biradar2288Sudharani/blob/main/Sudharani_Biradar_Resume.pdf)
-
 
 🌱 Currently Learning  
 - Advanced Django & REST APIs  and AI-ML 
