@@ -3,16 +3,17 @@
 
 
 🔗 Check My Portfolio - https://introdme.netlify.app/  
+
 📑 Check out my resume here – [My Resume](https://github.com/Biradar2288Sudharani/Biradar2288Sudharani/blob/main/Sudharani_Biradar_Resume.pdf)
+
+💻 All My Projects  
+👉 Available on my GitHub Profile - [GitHub](https://github.com/Biradar2288Sudharani)
 
 🌱 Currently Learning  
 - Advanced Django & REST APIs  and AI-ML 
 - Data Science (Pandas, Numpy, Patplotlib) 
 - Cloud Hosting (AWS, Render, Netlify, Python AnyWhere, Render, Vercel)  
   
-💻 All My Projects  
-👉 Available on my GitHub Profile  - GitHub
-
 💬 Ask Me About  
 - Django, Python (Numpy, Pandas, Matplotlib, Tkinter)
 - Cloud Hosting  (Python AnyWhere, Render, AWS, Netlify, Vercel)
